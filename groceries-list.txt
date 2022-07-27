@@ -15,3 +15,5 @@ Potion magique d'Astérix le Gaulois
 Les poneys sont de la partie aussi maintenant !
 
 Hello, world!
+
+Cruel world!
